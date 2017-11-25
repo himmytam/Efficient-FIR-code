@@ -28,6 +28,7 @@ To Check more datails of the presedure discribed above  (In section *Creating th
 https://docs.microsoft.com/en-us/visualstudio/python/cpp-and-python
 
 A vedio version discribing the set up above:
+
 https://docs.microsoft.com/en-us/visualstudio/python/debugging-mixed-mode
 
 The Python code are compiled by (32-bits Anaconda 4.40 : python 3.6.3) and the soulution is created in Visual Studio 2017
