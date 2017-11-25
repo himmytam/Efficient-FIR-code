@@ -9,9 +9,10 @@ The c++ extension for python is built in Window 10
 **Requirement to run the program**
 
 1. Visual studio 2017 with both the Desktop Development with C++ and Python Development. 
-  -link to down from Microsoft: https://docs.microsoft.com/en-us/visualstudio/python/installation
+  -link to download from Microsoft: https://docs.microsoft.com/en-us/visualstudio/python/installation
 
-2. 32-bits version Anaconda 4.40 with Python 3.6.3 :
+2. 32-bits version Anaconda 4.40 with Python 3.6.3: 
+  -link to down :https://anaconda.org/anaconda/python
 
 3. Click the file above, python extension > python extension.sln > open it in Vsual studio 2017
 you should able to see the soulution Explorer on the right hand site 
