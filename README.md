@@ -15,6 +15,7 @@ The main program will be written in python and the data crunching will be achiev
 you should able to see the soulution Explorer on the right hand site 
 
 3.Make sure that your python environments are sat to 32-bits python
+
 4.Left click the c++ solution > Property> Set configuration to all configurations
 5.C/C++>Additional Include Diretories>Edit...>add folder (include) which is contained in your Python or Anaconda directory
 6.Linker>Additional Library Directories >Edit...>add folder (libs) which is contained in your Python or Anaconda directory 
