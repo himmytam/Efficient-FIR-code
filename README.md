@@ -1,5 +1,6 @@
-# Efficient-FIR-code
-Create c++ extension for python
+# Efficient-FIR-code Read the following statement first!
+
+To open the file, python extension > python extension.sln open it in Vsual studio first
 
 c++ extension for Python
 Welcome to my programming world: This is the program about filter the unwanted noise from the ecg signal
