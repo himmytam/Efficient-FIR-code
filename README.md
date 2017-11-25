@@ -5,8 +5,11 @@
    
 The main program will be written in python and the data crunching will be achieved in c++ in order to speed up the process
 The c++ extension for python is built in Window 10
-The left 
-**Requirement to run the program**
+
+-------------------------------------------------------
+The python and c++ code can be view in the files above
+
+**Requirement to run the program  create c++ extension for python**
 
 1. Visual studio 2017 with both the Desktop Development with C++ and Python Development. 
   -link to download from Microsoft: https://docs.microsoft.com/en-us/visualstudio/python/installation
