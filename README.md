@@ -25,11 +25,11 @@ you should able to see the soulution Explorer on the right hand site
 5 & 6 simply mean open the directory where you download the Python or Anacoda, 
 the directory maybe in C drive>User ....
 
+
 To Check more datails of the presedure discribed above  (In section *Creating the core c++ Project*):
 https://docs.microsoft.com/en-us/visualstudio/python/cpp-and-python
 
 A vedio version discribing the set up above:
-
 https://docs.microsoft.com/en-us/visualstudio/python/debugging-mixed-mode
 
 The Python code are compiled by (32-bits Anaconda 4.40 : python 3.6.3) and the soulution is created in Visual Studio 2017
