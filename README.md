@@ -11,7 +11,8 @@ The main program will be written in python and the data crunching will be achiev
 1.Visual studio 2017 with both the Desktop Development with C++ and Python Development.  
   -link to down from Microsoft: https://docs.microsoft.com/en-us/visualstudio/python/installation
   
-2. Click the file above, python extension > python extension.sln > open it in Vsual studio 2017 ,you should able to see the soulution Explorer on the right hand site 
+2. Click the file above, python extension > python extension.sln > open it in Vsual studio 2017
+you should able to see the soulution Explorer on the right hand site 
 
 3.Make sure that your python environments are sat to 32-bits python
 
@@ -25,6 +26,7 @@ the directory maybe in C drive>User ....
 
 To Check more datails of the presedure discribed above  (In section *Creating the core c++ Project*):
 https://docs.microsoft.com/en-us/visualstudio/python/cpp-and-python
+
 A vedio version discribing the set up above:
 https://docs.microsoft.com/en-us/visualstudio/python/debugging-mixed-mode
 
