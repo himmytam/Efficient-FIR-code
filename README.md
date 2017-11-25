@@ -12,6 +12,7 @@ ps: the version of the python is extremely important!!!!!!!!!!!!!! be careful yo
 
 The way to set up the links between the python and c++ are the same procedure taken by the link below: 
 https://docs.microsoft.com/en-us/visualstudio/python/cpp-and-python
+
 To install the Visual studio with can creating c++ extensions for python, please check the following link:
 https://docs.microsoft.com/en-us/visualstudio/python/installation
 
