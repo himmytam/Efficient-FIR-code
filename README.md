@@ -40,6 +40,6 @@ A vedio version discribing the set up above:
 https://docs.microsoft.com/en-us/visualstudio/python/debugging-mixed-mode
 
 The Python code are compiled by (32-bits Anaconda 4.40 : python 3.6.3) and the soulution is created in Visual Studio 2017
-ps: the version of the python is extremely important!!!!!!!!!!!!!!
+   ps: the version of the python is extremely important!!!!!!!!!!!!!!
 
 @author : Himmy Tam
