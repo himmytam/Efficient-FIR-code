@@ -8,17 +8,19 @@ The main program will be written in python and the data crunching will be achiev
 
 **Requirement to run the program**
 
-1.Visual studio 2017 with both the Desktop Development with C++ and Python Development.  
+1. Visual studio 2017 with both the Desktop Development with C++ and Python Development.  
   -link to down from Microsoft: https://docs.microsoft.com/en-us/visualstudio/python/installation
   
-2.Click the file above, python extension > python extension.sln > open it in Vsual studio 2017
+2. Click the file above, python extension > python extension.sln > open it in Vsual studio 2017
 you should able to see the soulution Explorer on the right hand site 
 
-3.Make sure that your python environments are sat to 32-bits python
+3. Make sure that your python environments are sat to 32-bits python
 
-4.Left click the c++ solution > Property> Set configuration to all configurations
-5.C/C++>Additional Include Diretories>Edit...>add folder (include) which is contained in your Python or Anaconda directory
-6.Linker>Additional Library Directories >Edit...>add folder (libs) which is contained in your Python or Anaconda directory 
+4. Left click the c++ solution > Property> Set configuration to all configurations
+
+5. C/C++>Additional Include Diretories>Edit...>add folder (include) which is contained in your Python or Anaconda directory
+
+6. Linker>Additional Library Directories >Edit...>add folder (libs) which is contained in your Python or Anaconda directory 
 
 5 & 6 simply mean open the directory where you download the Python or Anacoda, 
 the directory maybe in C drive>User ....
