@@ -17,7 +17,7 @@ The c++ extension for python is built in Window 10
 3. Click the file above, python extension > python extension.sln > open it in Vsual studio 2017
 you should able to see the soulution Explorer on the right hand site 
 
-4. Make sure that your python environments are sat to 32-bits python
+4. Make sure that your python environments are set to 32-bits python
 
 5. Left click the c++ solution > Property> Set configuration to all configurations
 
