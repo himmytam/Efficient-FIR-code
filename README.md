@@ -1,12 +1,12 @@
 # Efficient-FIR-code : Read the following statement first!
 
 # Aim
-This is the program about filter the unwanted noise from the ecg signal
-With the help of c++ doing datas convolution, the filter process can be significantly speeded up, resulting a higher performance.
+   This is the program about filter the unwanted noise from the ecg signal. With the help of c++ doing datas convolution, the filter process can be significantly speeded up, resulting a higher performance.
+   
 The main program will be written in python and the data crunching will be achieved in c++ in order to speed up the process
 The c++ extension for python is built in Window 10:
 
-**Requirement to run the program**
+#Requirement to run the program
 
 1. Visual studio 2017 with both the Desktop Development with C++ and Python Development. 
   -link to down from Microsoft: https://docs.microsoft.com/en-us/visualstudio/python/installation
