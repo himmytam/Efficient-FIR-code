@@ -5,10 +5,10 @@
    This is the program about filter the unwanted noise from the ecg signal. With the help of c++ doing datas convolution, the filter process can be significantly speeded up, resulting a higher performance.
    
 The main program will be written in python and the data crunching will be achieved in c++ in order to speed up the process
-The c++ extension for python is built in Window 10
+The c++ extension for python is built in Window 10, the python and c++ code can be view in the files above
 
 -------------------------------------------------------
-The python and c++ code can be view in the files above
+
 
 **Requirement to run the program  create c++ extension for python**
 
