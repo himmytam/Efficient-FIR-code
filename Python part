@@ -8,7 +8,7 @@ ecg_signal = ((ecg_signal*0.002)-4.096)/500                #gain of 500
 ecg_signal = ecg_signal*1000                               #put the voltage into micro scale
 
 if __name__ == "__main__":                                   
-    from superfastcode import fir_convolution,filter_design   #import the function from the c++ extension module - superfastcode
+    from superfastcode import fir_convolution,filter_design #import the function from the c++ extension module - superfastcode
     design_parameters=(1001,1,1000,45,55) #must be python tuple type
     
     """
