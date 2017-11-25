@@ -7,6 +7,7 @@ With the help of c++ doing datas convolution, the filter process can be signific
 The main program will be written in python and the data crunching will be achieved in c++ in order to speed up the process
 
 **Requirement to run the program**
+
 1.Visual studio 2017 with both the Desktop Development with C++ and Python Development.  
   -link to down from Microsoft: https://docs.microsoft.com/en-us/visualstudio/python/installation
   
