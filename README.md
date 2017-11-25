@@ -1,4 +1,4 @@
-# Efficient-FIR-code : Read the following statement first!
+# Efficient-FIR-code : Creating C++ extensin for Python
 
 **Aim**:
 
@@ -10,7 +10,7 @@ The c++ extension for python is built in Window 10, the python and c++ code can 
 -------------------------------------------------------
 
 
-**Requirement to run the program  create c++ extension for python**
+**Requirement to run the program**
 
 1. Visual studio 2017 with both the Desktop Development with C++ and Python Development. 
   -link to download from Microsoft: https://docs.microsoft.com/en-us/visualstudio/python/installation
